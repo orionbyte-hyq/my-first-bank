@@ -1,2 +1,2 @@
 # my-first-bank
-As a program for explore,hope to let it become my main program.
+This is an exploratory programming project, and I hope it will gradually become my main project.
